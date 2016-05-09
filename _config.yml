@@ -9,7 +9,7 @@ name: Rolo
 description: A cute dog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/roloTheDog/pics/master/profile.jpg
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: rolo@jaywilliams
+  facebook: https://www.facebook.com/Rolo-1391904287803922/
   flickr:
-  github: barryclark/jekyll-now
+  github: roloTheDog
   instagram:
   linkedin:
   pinterest:
